@@ -22,8 +22,11 @@ swift build
 ./.build/debug/Swift-RSA [Optional Params] [Possible Value]
 ```
 Optionally, you may specify the following parameters.
+
 `-m "MYMESSAGE"` The message to be encrypted and decrypted. This parameter is **"Hello, world!"** by default.
+
 `-pl 256` The length of bit to be used when generating larget prime numbers. This parameter is **128** by default.
+
 `-ec` Enable "encode each character" mode. This functionality treats each character as a string and uses each ASCII value in the calculation. This mode is **off** by default.
 
 
