@@ -19,7 +19,7 @@ swift build
 ```
 3. Run the program. 
 ```sh
-./build/debug/Swift-RSA [Optional Params] [Possible Value]
+./.build/debug/Swift-RSA [Optional Params] [Possible Value]
 ```
 Optionally, you may specify the following parameters.
 `-m "MYMESSAGE"` The message to be encrypted and decrypted. This parameter is **"Hello, world!"** by default.
