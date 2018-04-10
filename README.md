@@ -51,7 +51,7 @@ Optionally, you may specify the following parameters.
 
 ## Screenshot
 
-![creensho](/Users/Hesse/Desktop/Swift-RSA/Screenshot.png)
+![screenshot](./Screenshot.png)
 
 
 
