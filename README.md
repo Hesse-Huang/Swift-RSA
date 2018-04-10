@@ -15,6 +15,7 @@ git clone https://github.com/Hesse-Huang/Swift-RSA
 ```
 2. Compile the project. You may ignore the warning popping up in your console;
 ```sh
+cd Swift-RSA
 swift build
 ```
 3. Run the program. 
